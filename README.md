@@ -149,14 +149,6 @@ React.js • Node.js • Express.js • MySQL • Tailwind CSS • Vite
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswanthikaav2024&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Advanced React
