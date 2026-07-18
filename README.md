@@ -141,25 +141,6 @@ React.js • Node.js • Express.js • MySQL • Tailwind CSS • Vite
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aswanthikaav2024&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanthikaav2024&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aswanthikaav2024&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
